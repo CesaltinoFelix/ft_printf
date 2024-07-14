@@ -105,4 +105,4 @@ Para compilar o seu projeto com a biblioteca `ft_printf`, siga os passos abaixo:
 
 ## Créditos
 
-Este projeto foi realizado como parte do currículo da [42Luanda](https://42luanda.com/), uma rede global de escolas de programação.
+Este projeto foi realizado como parte do currículo da [42Luanda](https://42luanda.com/){:target="_blank"}, uma rede global de escolas de programação.
